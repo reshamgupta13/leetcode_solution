@@ -26,4 +26,5 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [3570-find-books-with-no-available-copies](https://github.com/reshamgupta13/leetcode_solution/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->

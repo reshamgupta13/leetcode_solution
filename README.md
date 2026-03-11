@@ -27,4 +27,8 @@ LeetCode Solutions..
 | ------- | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/reshamgupta13/leetcode_solution/tree/main/3570-find-books-with-no-available-copies/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->

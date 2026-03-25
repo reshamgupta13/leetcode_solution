@@ -7,6 +7,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0027-remove-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0027-remove-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

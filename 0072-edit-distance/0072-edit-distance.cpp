@@ -1,16 +1,5 @@
 class Solution {
 public:
-int solveRec(string s1, string s2, int m, int n){
-        if(m==0) return n;
-        if(n==0) return m;
-        if(s1[m-1]==s2[n-1]){
-            return solveRec(s1,s2,m-1,n-1);
-        }
-         int removeOp  = solveRec(s1, s2, m-1, n);
-        int insertOp  = solveRec(s1, s2, m, n-1); 
-        int replaceOp = solveRec(s1, s2, m-1, n-1); 
-        return 1 + min({removeOp, insertOp, replaceOp}); 
-    } 
     int solveMem(string s1, string s2, int m, int n,vector<vector<int>> &dp){
             if(m==0) return n;
             if(n==0) return m;

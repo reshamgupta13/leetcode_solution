@@ -58,6 +58,7 @@ LeetCode Solutions..
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,5 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->

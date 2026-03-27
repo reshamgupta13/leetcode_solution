@@ -8,6 +8,7 @@ LeetCode Solutions..
 | [0027-remove-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0027-remove-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -45,12 +46,14 @@ LeetCode Solutions..
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +76,8 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0027-remove-element/) | Easy |
+| [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -58,6 +59,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
+| [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |

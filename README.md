@@ -80,6 +80,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -36,6 +36,7 @@ LeetCode Solutions..
 | [0184-department-highest-salary](https://github.com/reshamgupta13/leetcode_solution/tree/main/0184-department-highest-salary/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/reshamgupta13/leetcode_solution/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1407-top-travellers](https://github.com/reshamgupta13/leetcode_solution/tree/main/1407-top-travellers/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/reshamgupta13/leetcode_solution/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |

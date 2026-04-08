@@ -13,6 +13,7 @@ LeetCode Solutions..
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -104,4 +105,16 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 <!---LeetCode Topics End-->

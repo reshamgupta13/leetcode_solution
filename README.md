@@ -56,6 +56,7 @@ LeetCode Solutions..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/reshamgupta13/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
@@ -94,6 +95,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/reshamgupta13/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/reshamgupta13/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/reshamgupta13/leetcode_solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |

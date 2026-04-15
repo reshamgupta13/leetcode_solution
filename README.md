@@ -17,6 +17,7 @@ LeetCode Solutions..
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -103,6 +104,7 @@ LeetCode Solutions..
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/reshamgupta13/leetcode_solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

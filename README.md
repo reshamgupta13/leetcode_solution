@@ -108,6 +108,7 @@ LeetCode Solutions..
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0001-two-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +155,8 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 <!---LeetCode Topics End-->

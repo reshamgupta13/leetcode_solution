@@ -65,6 +65,7 @@ LeetCode Solutions..
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/reshamgupta13/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ LeetCode Solutions..
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/reshamgupta13/leetcode_solution/tree/main/0319-bulb-switcher/) | Medium |
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -143,6 +145,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0001-two-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

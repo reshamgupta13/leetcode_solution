@@ -76,6 +76,7 @@ LeetCode Solutions..
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/reshamgupta13/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/reshamgupta13/leetcode_solution/tree/main/0319-bulb-switcher/) | Medium |

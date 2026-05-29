@@ -79,6 +79,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/reshamgupta13/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
@@ -112,6 +113,7 @@ LeetCode Solutions..
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/reshamgupta13/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/reshamgupta13/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
@@ -153,6 +155,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |

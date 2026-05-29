@@ -21,6 +21,7 @@ LeetCode Solutions..
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -59,6 +60,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

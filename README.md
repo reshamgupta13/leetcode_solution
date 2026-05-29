@@ -9,6 +9,7 @@ LeetCode Solutions..
 | [0015-3sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/reshamgupta13/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/reshamgupta13/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshamgupta13/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -91,6 +92,7 @@ LeetCode Solutions..
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/reshamgupta13/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/reshamgupta13/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshamgupta13/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -179,4 +181,8 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/reshamgupta13/leetcode_solution/tree/main/0319-bulb-switcher/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/reshamgupta13/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ LeetCode Solutions..
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -37,6 +38,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ LeetCode Solutions..
 | [0015-3sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/reshamgupta13/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@ LeetCode Solutions..
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

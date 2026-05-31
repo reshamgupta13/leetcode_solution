@@ -1,18 +1,18 @@
 class Solution {
     public int areaOfMaxDiagonal(int[][] dimensions) {
-        double maxi=-1.0;
-        int res=0;
-        for(int[] rect:dimensions){
-            int l=rect[0], b=rect[1];
-            double d=Math.sqrt((double)l*l+(double)b*b);
-            if(d>maxi){
-                maxi=d;
-                res=l*b;
-            }
-            else if(d==maxi){
-             res=Math.max(res,l*b);
+        int n = dimensions.length;
+        int maxArea = 0, maxDiag = 0;
+
+        for (int i = 0; i < n; i++) {
+            int l = dimensions[i][0];
+            int w = dimensions[i][1];
+            int currDiag = l * l + w * w;
+
+            if (currDiag > maxDiag || (currDiag == maxDiag && l * w > maxArea)) {
+                maxDiag = currDiag;
+                maxArea = l * w;
             }
         }
-        return res;
+        return maxArea;
     }
 }

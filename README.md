@@ -25,6 +25,7 @@ LeetCode Solutions..
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/reshamgupta13/leetcode_solution/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/reshamgupta13/leetcode_solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Queue
@@ -136,6 +137,7 @@ LeetCode Solutions..
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/reshamgupta13/leetcode_solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/reshamgupta13/leetcode_solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/reshamgupta13/leetcode_solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

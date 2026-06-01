@@ -16,6 +16,7 @@ LeetCode Solutions..
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -76,6 +77,7 @@ LeetCode Solutions..
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

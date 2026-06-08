@@ -20,6 +20,7 @@ LeetCode Solutions..
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -42,6 +43,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ LeetCode Solutions..
 | [0015-3sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/reshamgupta13/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -202,4 +205,21 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/reshamgupta13/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->

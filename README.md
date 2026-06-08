@@ -13,6 +13,7 @@ LeetCode Solutions..
 | [0056-merge-intervals](https://github.com/reshamgupta13/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshamgupta13/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -75,6 +76,7 @@ LeetCode Solutions..
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/reshamgupta13/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
@@ -144,6 +146,7 @@ LeetCode Solutions..
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |

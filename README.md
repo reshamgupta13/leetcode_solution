@@ -58,6 +58,7 @@ LeetCode Solutions..
 | [0184-department-highest-salary](https://github.com/reshamgupta13/leetcode_solution/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/reshamgupta13/leetcode_solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [1070-product-sales-analysis-iii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/reshamgupta13/leetcode_solution/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/reshamgupta13/leetcode_solution/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1407-top-travellers](https://github.com/reshamgupta13/leetcode_solution/tree/main/1407-top-travellers/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1587-bank-account-summary-ii/) | Easy |

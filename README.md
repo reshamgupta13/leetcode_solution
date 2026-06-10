@@ -119,6 +119,7 @@ LeetCode Solutions..
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/reshamgupta13/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/reshamgupta13/leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/reshamgupta13/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

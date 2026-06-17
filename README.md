@@ -20,6 +20,7 @@ LeetCode Solutions..
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -155,6 +156,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

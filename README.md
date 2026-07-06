@@ -14,6 +14,7 @@ LeetCode Solutions..
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshamgupta13/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -163,6 +164,7 @@ LeetCode Solutions..
 | [0015-3sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/reshamgupta13/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Rolling Hash
@@ -183,6 +185,7 @@ LeetCode Solutions..
 | [0001-two-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -207,6 +210,7 @@ LeetCode Solutions..
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -216,6 +220,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/reshamgupta13/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |

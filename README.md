@@ -19,6 +19,7 @@ LeetCode Solutions..
 | [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
@@ -73,6 +74,7 @@ LeetCode Solutions..
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Two Pointers
@@ -103,6 +105,7 @@ LeetCode Solutions..
 | [0070-climbing-stairs](https://github.com/reshamgupta13/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/reshamgupta13/leetcode_solution/tree/main/0319-bulb-switcher/) | Medium |
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -157,6 +160,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting
@@ -167,6 +171,7 @@ LeetCode Solutions..
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Rolling Hash
@@ -190,6 +195,7 @@ LeetCode Solutions..
 | [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |

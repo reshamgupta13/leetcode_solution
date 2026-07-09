@@ -5,18 +5,19 @@ class Solution {
         }
         int start=0;
         int end=s.length()-1;
+       
         while(start<=end){
-            char currFirst=s.charAt(start);
-            char currEnd=s.charAt(end);
-            if(!Character.isLetterOrDigit(currFirst)){
+                char currS=s.charAt(start);
+                char currE=s.charAt(end);
+            if(!Character.isLetterOrDigit(currS)){
                 start++;
             }
-            else if(!Character.isLetterOrDigit(currEnd)){
+            else if(!Character.isLetterOrDigit(currE)){
                 end--;
             }
             else{
-                if(Character.toLowerCase(currFirst)!=Character.toLowerCase(currEnd)){
-                    return false;
+                if(Character.toLowerCase(currS)!=Character.toLowerCase(currE)){
+                  return false;
                 }
                 start++;
                 end--;

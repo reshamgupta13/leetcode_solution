@@ -22,6 +22,7 @@ LeetCode Solutions..
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -76,6 +77,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Two Pointers
@@ -92,6 +94,7 @@ LeetCode Solutions..
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/reshamgupta13/leetcode_solution/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting

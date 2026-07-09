@@ -148,6 +148,7 @@ LeetCode Solutions..
 | [0020-valid-parentheses](https://github.com/reshamgupta13/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/reshamgupta13/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/reshamgupta13/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/reshamgupta13/leetcode_solution/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -179,6 +180,7 @@ LeetCode Solutions..
 | [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/reshamgupta13/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -204,6 +206,7 @@ LeetCode Solutions..
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/reshamgupta13/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |

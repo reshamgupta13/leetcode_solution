@@ -13,6 +13,7 @@ LeetCode Solutions..
 | [0056-merge-intervals](https://github.com/reshamgupta13/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reshamgupta13/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
@@ -201,6 +202,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0001-two-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
@@ -261,4 +263,8 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->

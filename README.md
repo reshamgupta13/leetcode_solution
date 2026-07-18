@@ -32,6 +32,7 @@ LeetCode Solutions..
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/reshamgupta13/leetcode_solution/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -118,6 +119,7 @@ LeetCode Solutions..
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
@@ -275,4 +277,8 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/reshamgupta13/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->

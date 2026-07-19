@@ -157,6 +157,7 @@ LeetCode Solutions..
 | [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/reshamgupta13/leetcode_solution/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/reshamgupta13/leetcode_solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -231,6 +232,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/reshamgupta13/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/reshamgupta13/leetcode_solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,8 +279,13 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/reshamgupta13/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/reshamgupta13/leetcode_solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/reshamgupta13/leetcode_solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->

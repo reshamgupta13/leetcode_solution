@@ -27,6 +27,7 @@ LeetCode Solutions..
 | [0238-product-of-array-except-self](https://github.com/reshamgupta13/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/reshamgupta13/leetcode_solution/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/reshamgupta13/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -195,6 +196,7 @@ LeetCode Solutions..
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0274-h-index](https://github.com/reshamgupta13/leetcode_solution/tree/main/0274-h-index/) | Medium |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## Rolling Hash
@@ -276,6 +278,7 @@ LeetCode Solutions..
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/reshamgupta13/leetcode_solution/tree/main/0274-h-index/) | Medium |
 | [0912-sort-an-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0912-sort-an-array/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |

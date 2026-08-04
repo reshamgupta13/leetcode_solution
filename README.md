@@ -22,6 +22,7 @@ LeetCode Solutions..
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/reshamgupta13/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/reshamgupta13/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
@@ -54,6 +55,7 @@ LeetCode Solutions..
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reshamgupta13/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -258,6 +261,7 @@ LeetCode Solutions..
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/reshamgupta13/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/reshamgupta13/leetcode_solution/tree/main/3028-ant-on-the-boundary/) | Easy |

@@ -122,6 +122,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/reshamgupta13/leetcode_solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/reshamgupta13/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/0189-rotate-array/) | Medium |
@@ -166,6 +167,7 @@ LeetCode Solutions..
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/reshamgupta13/leetcode_solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/reshamgupta13/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/reshamgupta13/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
@@ -232,6 +234,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/reshamgupta13/leetcode_solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |

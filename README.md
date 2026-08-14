@@ -181,6 +181,7 @@ LeetCode Solutions..
 | [0151-reverse-words-in-a-string](https://github.com/reshamgupta13/leetcode_solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/reshamgupta13/leetcode_solution/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/reshamgupta13/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/reshamgupta13/leetcode_solution/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0415-add-strings/) | Easy |
@@ -251,6 +252,7 @@ LeetCode Solutions..
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/reshamgupta13/leetcode_solution/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/reshamgupta13/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |

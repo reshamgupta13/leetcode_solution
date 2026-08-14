@@ -25,6 +25,7 @@ LeetCode Solutions..
 | [0209-minimum-size-subarray-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/reshamgupta13/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/reshamgupta13/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -57,6 +58,7 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/reshamgupta13/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/reshamgupta13/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@ LeetCode Solutions..
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/reshamgupta13/leetcode_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/reshamgupta13/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/reshamgupta13/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0268-missing-number/) | Easy |

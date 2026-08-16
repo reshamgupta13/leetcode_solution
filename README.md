@@ -80,6 +80,7 @@ LeetCode Solutions..
 | [0185-department-top-three-salaries](https://github.com/reshamgupta13/leetcode_solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/reshamgupta13/leetcode_solution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/reshamgupta13/leetcode_solution/tree/main/0595-big-countries/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1148-article-views-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/reshamgupta13/leetcode_solution/tree/main/1211-queries-quality-and-percentage/) | Easy |

@@ -78,6 +78,7 @@ LeetCode Solutions..
 | [0178-rank-scores](https://github.com/reshamgupta13/leetcode_solution/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/reshamgupta13/leetcode_solution/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/reshamgupta13/leetcode_solution/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0595-big-countries](https://github.com/reshamgupta13/leetcode_solution/tree/main/0595-big-countries/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/reshamgupta13/leetcode_solution/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/reshamgupta13/leetcode_solution/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |

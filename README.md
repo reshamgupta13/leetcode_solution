@@ -84,6 +84,7 @@ LeetCode Solutions..
 | [1407-top-travellers](https://github.com/reshamgupta13/leetcode_solution/tree/main/1407-top-travellers/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/reshamgupta13/leetcode_solution/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/reshamgupta13/leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/reshamgupta13/leetcode_solution/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3436-find-valid-emails](https://github.com/reshamgupta13/leetcode_solution/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/reshamgupta13/leetcode_solution/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |

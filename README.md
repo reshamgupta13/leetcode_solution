@@ -157,6 +157,7 @@ LeetCode Solutions..
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reshamgupta13/leetcode_solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/reshamgupta13/leetcode_solution/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/reshamgupta13/leetcode_solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/reshamgupta13/leetcode_solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |

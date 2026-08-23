@@ -144,6 +144,7 @@ LeetCode Solutions..
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/reshamgupta13/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/reshamgupta13/leetcode_solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/reshamgupta13/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
@@ -180,6 +181,7 @@ LeetCode Solutions..
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/reshamgupta13/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/reshamgupta13/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/reshamgupta13/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -284,6 +286,7 @@ LeetCode Solutions..
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/reshamgupta13/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/reshamgupta13/leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/reshamgupta13/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/reshamgupta13/leetcode_solution/tree/main/0092-reverse-linked-list-ii/) | Medium |

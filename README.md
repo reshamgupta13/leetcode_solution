@@ -297,6 +297,7 @@ LeetCode Solutions..
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/reshamgupta13/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/reshamgupta13/leetcode_solution/tree/main/0155-min-stack/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/reshamgupta13/leetcode_solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -375,4 +376,8 @@ LeetCode Solutions..
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/reshamgupta13/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/reshamgupta13/leetcode_solution/tree/main/0202-happy-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/reshamgupta13/leetcode_solution/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

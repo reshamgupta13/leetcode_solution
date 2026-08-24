@@ -105,6 +105,7 @@ LeetCode Solutions..
 | [1757-recyclable-and-low-fat-products](https://github.com/reshamgupta13/leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/reshamgupta13/leetcode_solution/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/reshamgupta13/leetcode_solution/tree/main/1965-employees-with-missing-information/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/reshamgupta13/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/reshamgupta13/leetcode_solution/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/reshamgupta13/leetcode_solution/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/reshamgupta13/leetcode_solution/tree/main/3570-find-books-with-no-available-copies/) | Easy |
